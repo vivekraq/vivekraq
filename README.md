@@ -109,7 +109,76 @@ System Design Fundamentals
 ```
 
 ---
+---
 
+## 🧑‍💻 My Coding Journey
+
+My coding journey is driven by consistency, problem-solving, and continuous improvement. I actively practice Data Structures and Algorithms on LeetCode and GeeksforGeeks to strengthen my programming fundamentals, analytical thinking, and interview preparation.
+
+Through regular practice, I have worked on problems involving arrays, strings, hashing, recursion, linked lists, trees, binary search, dynamic programming, and other essential algorithmic patterns.
+
+### 🏆 Coding Milestones
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-120%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+### 🟠 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+**Focus Areas:**
+- Data Structures and Algorithms
+- Problem-solving patterns
+- Time and Space Complexity Analysis
+- Coding interview preparation
+- Consistent practice and revision
+
+### 🟢 GeeksforGeeks Profile
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+**My GFG Journey:**
+- 120+ problems solved
+- Practicing DSA and algorithmic concepts
+- Improving coding efficiency and logical reasoning
+- Exploring different approaches to problem-solving
+
+### 📈 What I'm Working Towards
+
+- Improving my ability to solve Medium and Hard DSA problems.
+- Strengthening Core Computer Science fundamentals.
+- Preparing for Software Development Engineer interviews.
+- Applying algorithmic thinking to real-world software projects.
+- Maintaining consistency and learning from every problem.
+
+**My goal:** Become a well-rounded Software Engineer with strong problem-solving skills, solid CS fundamentals, and the ability to build scalable, intelligent applications.
+
+---
+
+### 🔗 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-My%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 ## 📊 GitHub Statistics
 
 <p align="center">
